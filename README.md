@@ -1,6 +1,6 @@
 # AI-Powered-Movie-Recommendation-System
-
 A movie recommendation system built with FastAPI, OpenAI GPT-3.5 Turbo, OpenAI embeddings, and Streamlit to deliver personalized movie suggestions based on natural language queries.
+Dataset link: https://www.kaggle.com/datasets/guru001/movie-genre-prediction
 
 Overview
 This project leverages state-of-the-art AI models to provide tailored movie recommendations. Users can input their movie preferences or describe the type of movies they like, and the system uses GPT-3.5 Turbo along with embedding techniques to retrieve and rank movies that best match their interests. Additionally, a user-friendly Streamlit interface is provided for interactive exploration and visualization of recommendations.
