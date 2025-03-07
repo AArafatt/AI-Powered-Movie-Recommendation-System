@@ -1,0 +1,10 @@
+streamlit
+langchain_community
+langchain_openai
+langchain_core
+openai
+python-dotenv
+faiss-cpu
+pandas
+fastapi
+uvicorn
